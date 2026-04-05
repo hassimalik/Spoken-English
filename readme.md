@@ -1,4 +1,4 @@
 # Progress 
 
 # Day 1 
-I just made a repo of this learning and i paste and saved the roadmap. 
+I learnt some words pronounciation from Rachel English . Then i recorded video of myself pronouncing three words as function , database , variable . 
