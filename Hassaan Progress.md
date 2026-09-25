@@ -5,3 +5,10 @@ I learnt some words pronounciation from Rachel English . Then i recorded video o
 
 ##  Day 2
 Understood and Learnt Vowels sounds words . Watched Rachel English Video
+
+
+## Day 3 
+I watched 2 to 3 videos of BBC
+
+## Day 4
+I learnt what is shadowing and practiced shadowing on some videos.  
