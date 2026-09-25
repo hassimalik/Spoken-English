@@ -11,4 +11,7 @@ Understood and Learnt Vowels sounds words . Watched Rachel English Video
 I watched 2 to 3 videos of BBC
 
 ## Day 4
-I learnt what is shadowing and practiced shadowing on some videos.  
+I completed active listening and listened to some of videos to their accent their pronunciation style. 
+
+## Day 5 
+I learnt shadowing in English a way to copy and learn the pronounciation style by active listening to the speakers.
