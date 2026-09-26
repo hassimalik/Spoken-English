@@ -1,4 +1,4 @@
-<img width="1880" height="1182" alt="image" src="https://github.com/user-attachments/assets/122179ef-e8a3-4996-9145-61bfd4bbfe4f" /># 🗣️ English Fluency Roadmap — Day 3 to Day 30
+# 🗣️ English Fluency Roadmap — Day 3 to Day 30
 
 > **Goal:** Speak English fluently like it's your native language — no accent training, no boring drills. Just real, natural fluency built through daily 30–60 minute sessions.
 
