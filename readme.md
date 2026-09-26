@@ -1,4 +1,4 @@
-# 🗣️ English Fluency Roadmap — Day 3 to Day 30
+<img width="1880" height="1182" alt="image" src="https://github.com/user-attachments/assets/122179ef-e8a3-4996-9145-61bfd4bbfe4f" /># 🗣️ English Fluency Roadmap — Day 3 to Day 30
 
 > **Goal:** Speak English fluently like it's your native language — no accent training, no boring drills. Just real, natural fluency built through daily 30–60 minute sessions.
 
@@ -17,7 +17,7 @@
 
 ## 🗓️ Week 1 — Days 3–7 · Building Core Habits
 
-### Day 3 — Speak Your Thoughts Out Loud `Speaking`
+### ☑️ Day 3 — Speak Your Thoughts Out Loud `Speaking`
 
 **Focus:** Speaking everything you think in English. No grammar pressure — just flow.
 
@@ -34,7 +34,7 @@
 
 ---
 
-### Day 4 — Active Listening · Native Content `Listening`
+### ☑️ Day 4 — Active Listening · Native Content `Listening`
 
 **Focus:** Training your ear to natural English rhythm without focusing on accent.
 
@@ -52,7 +52,7 @@
 
 ---
 
-### Day 5 — Shadowing · Copy the Flow, Not the Accent `Core`
+### ☑️ Day 5 — Shadowing · Copy the Flow, Not the Accent `Core`
 
 **Focus:** Shadowing trains rhythm, sentence linking, and natural flow — not accent copying.
 
@@ -70,7 +70,7 @@
 
 ---
 
-### Day 6 — Vocabulary in Context `Vocab`
+### ☑️ Day 6 — Vocabulary in Context `Vocab`
 
 **Focus:** Learn words inside real sentences — not from a wordlist.
 
@@ -89,7 +89,7 @@
 
 ---
 
-### Day 7 — Think in English · Kill the Translation Habit `Core`
+### ☑️ Day 7 — Think in English · Kill the Translation Habit `Core`
 
 **Focus:** Start forming thoughts directly in English. This is the biggest fluency leap.
 
@@ -106,9 +106,9 @@
 
 ---
 
-## 🗓️ Week 2 — Days 8–14 · Active Skills Development
+##  🗓️ Week 2 — Days 8–14 · Active Skills Development
 
-### Day 8 — Reading · Fluency Through Text `Core`
+### ☑️ Day 8 — Reading · Fluency Through Text `Core`
 
 **Focus:** Build reading speed and sentence feel — this improves your speaking too.
 
@@ -127,7 +127,7 @@
 
 ---
 
-### Day 9 — Conversation Simulation · Talk to AI `Speaking`
+### ☑️ Day 9 — Conversation Simulation · Talk to AI `Speaking`
 
 **Focus:** Practice real back-and-forth conversation when no human partner is available.
 
